@@ -1470,7 +1470,7 @@ pyjvcprojector==1.0.9
 pykaleidescape==1.0.1
 
 # homeassistant.components.kdeconnect
-pykdeconnect==0.1.0
+pykdeconnect==0.1.1
 
 # homeassistant.components.kira
 pykira==0.1.1
